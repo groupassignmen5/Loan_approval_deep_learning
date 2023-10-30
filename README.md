@@ -34,7 +34,7 @@ The dataset includes the following columns:
 **loan_status**: Loan approval status (target variable).
 
 
-Project Structure
+## Project Structure
 
 data/: Contains the dataset file (loan_data.csv).
 
