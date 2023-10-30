@@ -26,6 +26,9 @@ The dataset includes the following columns:
 **residential_assets_value**: Value of residential assets owned by the applicant.
 
 **commercial_assets_value**: Value of commercial assets owned by the applicant.
+
 **luxury_assets_value**: Value of luxury assets owned by the applicant.
+
 **bank_asset_value**: Value of assets held in the bank by the applicant.
+
 **loan_status**: Loan approval status (target variable).
