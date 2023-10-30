@@ -2,7 +2,7 @@
 # Loan Approval Prediction Project README
 
 # Overview
-This project focuses on predicting loan approval decisions using machine learning techniques. The goal is to automate the loan approval process, making it more efficient and accurate, while reducing human bias. The dataset contains various features related to loan applicants and their loan approval status.
+**This project focuses on predicting loan approval decisions using machine learning techniques. The goal is to automate the loan approval process, making it more efficient and accurate, while reducing human bias. The dataset contains various features related to loan applicants and their loan approval status.**
 
 Dataset
 The dataset includes the following columns:
