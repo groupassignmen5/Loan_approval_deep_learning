@@ -32,3 +32,22 @@ The dataset includes the following columns:
 **bank_asset_value**: Value of assets held in the bank by the applicant.
 
 **loan_status**: Loan approval status (target variable).
+
+
+Project Structure
+
+data/: Contains the dataset file (loan_data.csv).
+
+notebooks/: Jupyter notebooks used for data exploration, preprocessing, and modeling.
+
+src/: Source code for the loan approval prediction model.
+
+data_preprocessing.py: Python script for cleaning and preprocessing the dataset.
+
+model_training.py: Python script for training the machine learning model.
+
+predict.py: Python script for making predictions using the trained model.
+
+requirements.txt: List of Python packages required for the project.
+
+README.md: This file, providing an overview of the project.
